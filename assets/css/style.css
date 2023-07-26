@@ -1137,11 +1137,11 @@ waving  */
 
 .footer {
   position: fixed;
-  left: 140px ;
+  left: 0;
   bottom: 0;
   width: 100%;
   height: 8%;
-  background-color: #373636;
+  background-color: #212431;
   padding: 20px;
   text-align: center;
   color: #333;
