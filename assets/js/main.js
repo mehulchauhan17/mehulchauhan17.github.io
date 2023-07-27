@@ -260,3 +260,9 @@
   new PureCounter();
 
 })()
+
+function downloadCV() {
+  // Trigger the click event on the hidden anchor tag
+  var downloadLink = document.querySelector('.download-link');
+  downloadLink.click();
+}
