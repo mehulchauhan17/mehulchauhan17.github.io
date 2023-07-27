@@ -445,14 +445,22 @@ section {
 }
 
 .skills .progress .skill {
-  padding: 0;
+ 
+  
   margin: 0 0 6px 0;
   text-transform: uppercase;
-  display: block;
+  display: inline-block;
+  
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   color: #050d18;
+  font-size: 20px ;
+  
 }
+.image-with-space {
+  margin-right: 20px; /* Adjust the value as needed to control the space after the image */
+}
+
 
 .skills .progress .skill .val {
   float: right;
