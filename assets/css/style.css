@@ -471,6 +471,7 @@ section {
   background-color: #149ddd;
 }
 
+
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
@@ -1148,6 +1149,10 @@ waving  */
 }
 
 
+
+
+
+
 form {
   max-width: 700px;
   margin: 20px auto;
@@ -1185,3 +1190,4 @@ input[type="submit"] {
 input[type="submit"]:hover {
   background-color: #0056b3;
 }
+
